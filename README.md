@@ -6,6 +6,10 @@
 - ♟ I like playing chess
 - 💡 ich verstehe deutsch
 
+### Certifications
+- Oracle Cloud Infrastructure 2021 Certified Architect Associate
+- AWS Certified Developer – Associate 
+
 ### Skills
 #### Programming Languages:
 <p align="left">
